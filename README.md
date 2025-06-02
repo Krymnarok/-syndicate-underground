@@ -17,3 +17,8 @@ This project aims to blend aesthetics, function, and respect for the fallen into
 
 ## 📂 Structure
 
+```text
+Syndicate-Underground/
+├── index.html         # Main landing page
+├── obituary.html      # Tribute and remembrance page
+└── assets/            # (Optional) Folder for images, icons, or CSS
